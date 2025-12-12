@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maheshlj093/routerapp/static/css/main.bb3e9a97.css",
+    "main.js": "/maheshlj093/routerapp/static/js/main.6ac4d498.js",
+    "static/media/838.jpg": "/maheshlj093/routerapp/static/media/838.11e27c9ef14f691acbd1.jpg",
+    "static/media/home-bg.jpg": "/maheshlj093/routerapp/static/media/home-bg.6b0104e1e054c6639dee.jpg",
+    "index.html": "/maheshlj093/routerapp/index.html",
+    "main.bb3e9a97.css.map": "/maheshlj093/routerapp/static/css/main.bb3e9a97.css.map",
+    "main.6ac4d498.js.map": "/maheshlj093/routerapp/static/js/main.6ac4d498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb3e9a97.css",
+    "static/js/main.6ac4d498.js"
+  ]
+}
