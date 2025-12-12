@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maheshlj093/routerapp/static/css/main.bb3e9a97.css",
-    "main.js": "/maheshlj093/routerapp/static/js/main.6ac4d498.js",
-    "static/media/838.jpg": "/maheshlj093/routerapp/static/media/838.11e27c9ef14f691acbd1.jpg",
-    "static/media/home-bg.jpg": "/maheshlj093/routerapp/static/media/home-bg.6b0104e1e054c6639dee.jpg",
-    "index.html": "/maheshlj093/routerapp/index.html",
-    "main.bb3e9a97.css.map": "/maheshlj093/routerapp/static/css/main.bb3e9a97.css.map",
-    "main.6ac4d498.js.map": "/maheshlj093/routerapp/static/js/main.6ac4d498.js.map"
+    "main.css": "/routerapp/static/css/main.bb3e9a97.css",
+    "main.js": "/routerapp/static/js/main.c775f21a.js",
+    "static/media/838.jpg": "/routerapp/static/media/838.11e27c9ef14f691acbd1.jpg",
+    "static/media/home-bg.jpg": "/routerapp/static/media/home-bg.6b0104e1e054c6639dee.jpg",
+    "index.html": "/routerapp/index.html",
+    "main.bb3e9a97.css.map": "/routerapp/static/css/main.bb3e9a97.css.map",
+    "main.c775f21a.js.map": "/routerapp/static/js/main.c775f21a.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3e9a97.css",
-    "static/js/main.6ac4d498.js"
+    "static/js/main.c775f21a.js"
   ]
 }
